@@ -1,18 +1,16 @@
 ---
-title: XtremeWave模组文档
+title: XtremeWave模組文檔
 titleTemplate: false
 layout: home
-
 hero:
   name: XtremeDocs
-  tagline: XtremeWave模组文档
+  tagline: XtremeWave模組文檔
   image:
     src: /XtremeWave(Projector).png
     alt: XtremeWave Logo
-
 features:
-  - title: FinalSuspect 
+  - title: FinalSuspect
     details: The Ultimate Among Us Mod for the Original Experience.
-    link: /FinalSuspect/Introduction
+    link: /tw/FinalSuspect/Introduction
     linkText: 了解更多
 ---
